@@ -1,0 +1,13 @@
+{
+  "name": "projeto-shopee-cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brayan Adeolá",
+  "license": "ISC",
+  "description": "Projeto para utilizar modularização ESM no nodeJS, utilizando a ideia do backend de um carrinho de compras de um E-commerce"
+}
